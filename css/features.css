@@ -1,0 +1,75 @@
+#features{
+    margin:20px 0 0 0;
+    width:100%; background-color: #f8f9fa;
+    }
+    .features-con {
+        width:60%; margin:0 auto;
+         padding: 15px 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+    .features-1 {
+        width:40%;height:465px; 
+        
+   
+    }
+    .features-1 h3 {font-size: 24px;
+        margin-bottom: 25px;
+        font-family: "Poppins", sans-serif;
+    }
+    .features-1 p {
+        color: #95a0ab ; margin-bottom:15px;
+    }
+    
+    .features-1 li {
+        display:block;
+        color: #95a0ab ;
+        padding:15px 0;
+        
+    }
+    .features-1 ul li::before
+    {
+    content: "";
+    border-radius: 50%;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    left: 0;
+    top: 14px;
+    background-color: red;
+    }
+    .btn1 {
+        padding: 13px 20px;
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        transition: all 0.5s;
+        background-color: red;
+        border-radius: 30px;
+        color:white;
+        border:none;
+        position: relative; top:0;
+        width: 32%;
+        margin-top: 50px;
+    }
+    .features-1 button {
+        border-radius: 5px;
+    }
+    .features-1 a {
+        color:white;
+        text-decoration: none;
+        font-size: 14px;
+    }
+    .features-1 button:hover {
+    top:-10px;
+    }
+    
+    .features-2 {
+        width:60%;height:465px;  
+        
+    }
+    .features-2 img {
+       width:80%;height:460px; margin-left:15%;
+    }

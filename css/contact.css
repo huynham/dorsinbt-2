@@ -1,0 +1,268 @@
+#phan12{
+     
+    margin:50px 0 0 0;
+width:100%; position: relative;
+}
+.phan12div1 {
+    width:60%;margin:0 auto; 
+    display: flex;
+   
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    text-align: center;
+   
+}
+.phan12div1 hr {border-top: 2px solid red; width:6%; height:2px; margin:30px 0 30px 0;}
+.phan12div1 p {padding-bottom:20px; color: #95a0ab ;}
+.phan12div1 p {
+    padding:0 0 50px 0;
+}
+.phan121 {
+    width:60%; margin:0 auto;
+     
+    display: flex;
+    justify-content: space-between;
+    
+    position: relative;
+    
+}
+
+
+.phan121div1 {
+width:30%;  
+display: flex;
+flex-direction: column;
+ position: relative; top:0;
+transition: all 0.5s;
+}
+.phan121div1 p {font-size: 14px;
+font-weight: bold;
+}
+.phan121div1 span {color: #95a0ab; margin:10px 0 30px 0; }
+
+.phan121div2 {
+    width:65%; 
+    display: flex;
+    flex-direction: column;
+        position: relative; top:0;
+      transition: all 0.5s;
+}
+
+.phan121div2 .inp1{
+    margin-bottom: 15px;
+    position: absolute; top:0; left:0;
+    height: 50px;
+    padding-left: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+    font-size: 14px;
+    width:45%;
+}
+.phan121div2 .inp2{
+    position: absolute; right:0;
+    margin-bottom: 15px;
+    height: 50px;
+    padding-left: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+    font-size: 14px;
+    width:45%;
+}
+.phan121div2 .inp3{
+    position: absolute; left:0; top: 70px;
+    margin-bottom: 15px;
+    height: 50px;
+    padding-left: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+    font-size: 14px;
+    width:100%;
+}
+.phan121div2 .text1 {
+    margin-top:150px;
+   width: 100%;
+    height: 80px;
+    padding-left: 20px;
+    border: 1px solid #e0e0e0;
+    font-size: 14px;
+    margin-bottom: 80px;
+}
+.phan121div2 button {
+    width:20%; background-color: red; border:none;
+    position: absolute; right:0; bottom:0; padding:15px;
+    border-radius: 5px; transition: all 0.5s;
+}
+.phan121div2 a {text-decoration: none;color:white;}
+.phan121div2 button:hover {
+    bottom:-10px;
+}
+    
+/* het phan 12 */
+
+.phan13{
+     
+    margin:50px 0 0 0;
+width:100%; position: relative;
+}
+.phan131 {
+    width:60%; margin:0 auto;
+     height:150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    
+}
+.phan131div1 {
+    width:33%; height:60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative; top:0;
+    transition: all 0.5s;
+
+}
+.phan131div1 ul{
+    position: absolute; left:0;
+}
+.phan131div1 li {display:inline; }
+.phan131div1 a {text-decoration: none;}
+.phan131div1 .iconify {
+    text-align: center;
+    font-size: 50px;color:black; border:1px solid rgb(68, 57, 57); 
+    width:20%;height:50px; border-radius: 50%; 
+}
+.phan131div1 .iconify:hover {
+    background-color: red;
+}
+
+.phan131div2 {
+    width:33%; height:20px;
+    position: relative;
+   
+}
+
+.phan131div2 i {
+    position: absolute; right:0px; top:0;
+    font-size: 20px; width:50%; color:black !important;
+}
+.phan131div3 {
+    width:33%;  height:30px;
+   position: relative;
+      transition: all 0.5s;
+}
+
+    .phan131div3 i {
+        position: absolute; right:0px; top:0;
+        font-size: 20px; width:50%; float: left; color:black !important;
+}
+
+/* het phan 13 */
+.phan14{
+   margin:30px 0 0 0;
+width:100%;
+background-color: black;
+}
+.phan141 {
+    width:60%; margin:0 auto; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    padding-top: 50px;
+}
+.phan141div1 {
+    width:25%; height:246px;  
+    display: flex;
+    flex-direction: column;
+      position: relative; top:0;
+      transition: all 0.5s;
+      color:white;
+}
+.phan141div1 h4 {margin-bottom:20px;}
+.phan141div1 li {display:block; list-style-type: none;margin:0;padding:10px 0;}
+.phan141div1 a {text-decoration: none; color:#6c757d;}
+.phan141div2 {
+    width:25%; height:246px;  
+   
+    display: flex;
+    flex-direction: column;
+      position: relative; top:0;
+      transition: all 0.5s;
+      color:white;
+}
+.phan141div2 h4 {margin-bottom:20px;}
+.phan141div2 li {display:block; list-style-type: none;margin:0;padding:10px 0;}
+.phan141div2 a {text-decoration: none; color:#6c757d;}
+.phan141div3 {
+    width:25%; height:246px;  
+    display: flex;
+    flex-direction: column;
+      position: relative; top:0;
+      transition: all 0.5s;
+      color:white;
+}
+.phan141div3 h4 {margin-bottom:20px;}
+.phan141div3 li {display:block; list-style-type: none;margin:0;padding:10px 0;}
+.phan141div3 a {text-decoration: none; color:#6c757d;}
+.phan141div4 {
+    width:25%; height:246px;  
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    transition: all 0.5s;
+    color:white;
+}
+.phan141div4 h4 {margin-bottom:20px; text-transform: uppercase;}
+.phan141div4 li {display:block; list-style-type: none;margin:0;padding:10px 0;color: #6c757d;}
+.phan141div4 input {height:40px; background-color: #2e313a ; border:none;
+width: 100%;
+}
+.phan141div4 i {font-size: 20px; position: absolute; bottom:30%;right:20px; width:5px;
+width:10px;
+}
+
+/* het phan 14 */
+
+.phan15{
+     
+width:100%; height:80px; position: relative;
+display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: black;
+}
+.phan151 {
+    width:60%; margin:0 auto;
+     height:80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    background-color: #2e313a;
+    
+}
+.phan151div1 {
+    width:50%; height:40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+      position: relative; top:0;
+      transition: all 0.5s;
+      color:white;
+       
+}
+
+.phan151div2 {
+    width:50%; height:40px;
+    display: flex;
+    flex-direction: column;
+      position: relative; top:0;
+      transition: all 0.5s;
+      color:white;
+       
+}
+.phan151div2 img { width:30%; position: absolute;right:0;bottom:0;}

@@ -1,0 +1,463 @@
+#phan7{
+    margin:50px 0 0 0;
+width:100%;
+}
+.phan7div1 {
+   width:60%;margin:0 auto; 
+   display: flex;
+  
+   flex-direction: column;
+   align-items: center;
+   justify-content: center; 
+   text-align: center;
+  
+}
+.phan7div1 hr {border-top: 2px solid red; width:6%; height:2px; margin:30px 0 30px 0;}
+.phan7div1 p {padding-bottom:20px; color: #95a0ab ;}
+.phan7a {
+   width: 60%;display: flex;
+   flex-direction: row;
+   align-items: center;
+   margin: 0 auto;
+   justify-content: center; 
+   text-align: center;
+}
+
+
+.phan71 {
+   width:50%; margin:0 auto;
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   
+}
+.phan7div1 p {
+   padding:0 0 30px 0;
+}
+
+.phan71div1 {
+width:48%; height:348px;  
+display: flex;
+flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   position: relative; top:0px; 
+   border-radius:5px;
+   margin-right: 10px;
+   transition:all 0.5s;
+}
+.phan71div1 img {
+   position: absolute;top:0; height:261px;
+}
+.phan71div1 h4 {
+    font-size: 16px; position: absolute; bottom:50px;
+}
+.phan71div1 p {
+   color: #a8aeb4; font-size: 13px; position: absolute; bottom:25px;
+}
+.phan71div1:hover {
+   top: -10px;
+}
+.phan71div2 {
+   width:48%; height:348px;  
+   display: flex;
+   flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+       position: relative; top:0px; 
+      
+       border-radius:5px;
+       
+       transition:all 0.5s;
+}
+.phan71div2 img {
+   position: absolute;top:0; height:261px;
+}
+.phan71div2 h4 {
+    font-size: 16px; position: absolute; bottom:50px;
+}
+.phan71div2 p {
+   color: #a8aeb4; font-size: 13px; position: absolute; bottom:25px;
+}
+.phan71div2:hover {
+   top: -10px;
+}
+
+.phan72 {
+   width:50%; margin:0 auto;
+   display: flex;
+   flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.phan72div1 {
+   width:48%; height:348px;  
+   display: flex;
+   flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+       position: relative; top:0px; 
+      
+       border-radius:5px;
+       transition:all 0.5s;
+}
+.phan72div1 img {
+   position: absolute;top:0; height:261px;
+}
+.phan72div1 h4 {
+    font-size: 16px; position: absolute; bottom:50px;
+}
+.phan72div1 p {
+   color: #a8aeb4; font-size: 13px; position: absolute; bottom:25px;
+}
+.phan72div1:hover {
+   top: -10px;
+}
+.phan72div2 {
+   width:48%; height:348px;  
+   display: flex;
+   flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+       position: relative; top:0px; 
+       
+       border-radius:5px;
+       margin-left: 10px;
+       transition:all 0.5s;
+}
+.phan72div2 img {
+   position: absolute;top:0; height:261px;
+}
+.phan72div2 h4 {
+    font-size: 16px; position: absolute; bottom:50px;
+}
+.phan72div2 p {
+   color: #a8aeb4; font-size: 13px; position: absolute; bottom:25px;
+}
+.phan72div2:hover {
+   top: -10px;
+}
+
+/* het phan 7 */
+
+.phan8{
+     
+    margin:50px 0 0 0;
+width:100%; position: relative;
+}
+.phan8div1 {
+    width:60%;margin:0 auto; 
+    display: flex;
+   
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    text-align: center;
+   
+}
+.phan8div1 hr {border-top: 2px solid red; width:6%; height:2px; margin:30px 0 30px 0;}
+.phan8div1 p {padding-bottom:20px; color: #95a0ab ;}
+
+.phan81 {
+    width:60%; margin:0 auto;
+     
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    
+}
+.phan81div1 p {
+    padding:0 0 0px 0;
+}
+
+.phan81div1 {
+width:30%; height:249px;  
+display: flex;
+flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative; top:0px; z-index:6;
+
+}
+.phan81div1 i {
+    font-size: 48px; color:red;
+}
+.phan81div1 h4 {font-size: 18px;margin:10px 0;}
+.phan81div1 p {color: #95a0ab ;}
+.phan81phu1 {width:5%;height:249px;
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+}
+.phan81phu1 i {
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    width:40px;height:40px;
+    background-color: red; 
+    font-size: 30px;color:white !important;   border-radius: 50%;
+    
+}
+.phan81phu2 {width:5%;height:249px;
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      
+}
+.phan81phu2 i {
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    width:40px;height:40px;
+    background-color: red; 
+    font-size: 30px;color:white !important;   border-radius: 50%;
+    
+}
+.phan81div2 {
+    width:30%; height:249px;  
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        position: relative; top:0px; 
+      
+}
+.phan81div2 i {
+    font-size: 48px; color:red;
+}
+.phan81div2 h4 {font-size: 18px;margin:10px 0;}
+.phan81div2 p {color: #95a0ab ;}
+
+.phan81div2 a {text-decoration: none; color:white;}
+.phan81div2 button:hover {
+    bottom:10%;
+}
+.phan81div3 {
+    width:30%; height:249px;  
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        position: relative; top:0px; 
+      
+}
+.phan81div3 i {
+    font-size: 48px; color:red;
+}
+.phan81div3 h4 {font-size: 18px;margin:10px 0;}
+.phan81div3 p {color: #95a0ab ;}
+
+
+.phan81div1:before {
+    content: "";
+    border: 1px dashed #e0e0e0;
+    position: absolute; z-index: -3;
+    width: 67%;
+    left: 65%;
+    top: 50px;
+    position: absolute;  top:50%; left:80%;
+}
+
+.phan81div2:before {
+    content: "";
+    border: 1px dashed #e0e0e0;
+    position: absolute;
+    width: 67%;
+    left: 65%;
+    top: 50px;
+    position: absolute;  top:50%; left:80%;
+}
+
+
+/* het phan 8 */
+
+.phan9{
+     
+    margin:50px 0 20px 0;
+width:100%; position: relative;
+}
+.phan9div1 {
+    width:60%;margin:0 auto; 
+    display: flex;
+   
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    text-align: center;
+   
+   
+}
+.phan9div1 hr {border-top: 2px solid red; width:6%; height:2px; margin:30px 0 30px 0;}
+.phan9div1 p {padding-bottom:20px; color: #95a0ab  ;}
+
+.phan91 {
+    width:60%; margin:0 auto;
+     
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    
+}
+
+
+.phan91div1 {
+width:32%; height:240px;  
+display: flex;
+flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative; top:0;
+  transition: all 0.5s;
+  
+  
+}
+.phan91div1 img {
+    width:68px;height:68px;border-radius:50%;
+    position: absolute; top:3%;left:40%;
+    padding:5px; border:1px solid rgb(100, 82, 82);
+}
+.phan91div1 p {
+    width:100%;height:162px; 
+    padding:15% 15px 0;; border-radius: 5px;
+    font-style: italic; border:1px solid #95a0ab;
+    color: #95a0ab ;
+}
+.phan91div1 h5 {
+    position:absolute; bottom:10px;
+}
+.phan91div1 span {
+    color: #95a0ab ;
+}
+.phan91div1:hover {
+top:-10px;
+}
+.phan91div2 {
+    width:32%; height:240px;  
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        position: relative; top:0px;
+        transition: all 0.5s;
+}
+.phan91div2 img {
+    width:68px;height:68px;border-radius:50%;
+    position: absolute; top:3%;left:40%;
+    padding:5px; border:1px solid rgb(100, 82, 82);
+}
+.phan91div2 p {
+    width:100%;height:162px; 
+    padding:15% 15px 0; border-radius: 5px;
+    font-style: italic; border:1px solid #95a0ab;
+    color: #95a0ab ;
+}
+.phan91div2 h5 {
+    position:absolute; bottom:10px;
+}
+.phan91div2 span {
+    color: #95a0ab ;
+}
+.phan91div2:hover {
+    top:-10px;
+    }
+.phan91div3 {
+    width:32%; height:240px;  
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        position: relative; top:0px;
+        transition: all 0.5s;
+}
+
+.phan91div3 img {
+    width:68px;height:68px;border-radius:50%;
+    position: absolute; top:3%;left:40%;
+    padding:5px; border:1px solid rgb(100, 82, 82);
+}
+.phan91div3 p {
+    width:100%;height:162px; 
+    padding:15% 15px 0;; border-radius: 5px;
+    font-style: italic; border:1px solid #95a0ab;
+    color: #95a0ab ;
+}
+.phan91div3 h5 {
+    position:absolute; bottom:10px;
+}
+.phan91div3 span {
+    color: #95a0ab ;
+}
+.phan91div3:hover {
+top:-10px;
+}
+
+/* het phan 9 */
+
+.phan10 {
+    width:100%;height:423px; position: relative;  
+    background: url("../anh/img2.jpg"); background-position: center;
+}
+.phan101 {
+    background: linear-gradient(to right, #512da8, #711e72);
+    opacity: 0.9;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+}
+.phan101 img {
+    position: absolute; bottom:0;left:0;
+}
+
+.phan1012 {
+    width:60%;height:423px; margin:0 auto;  
+    text-align: center; position:relative;
+    display: flex; flex-direction: column;
+    justify-content: center; align-items: center;
+}
+.phan1012 h2 {
+    color:white; font-size: 30px;
+}
+.phan1012 hr {width:10%;border-top: 2px solid red;
+    height:2px; margin:20px 0;
+}
+.phan1012 p {color:white; margin-bottom: 20px; }
+.phan1012 .btn10 {
+    padding: 13px 20px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    border:none;
+    position: relative; top:0;
+margin-top:30px;
+transition: all 0.5s;
+border-radius:5px;
+background-color: white;
+color: black;
+border-radius: 5px;
+transition: all 0.5s;
+width: 15%;
+}
+.phan1012 button:hover {
+   top:-10px; 
+}
